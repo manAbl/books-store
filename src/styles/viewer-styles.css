@@ -1,0 +1,38 @@
+.main-wrapper #popular-categories {
+  grid-row: 1/3;
+
+  display: grid;
+  grid-template-columns: 30% 70%;
+  grid-template-rows: 6% 94%;
+}
+
+.main-wrapper #popular-categories h3 {
+  margin: 0;
+  padding: var(--padding);
+}
+
+#popular-categories .categories-nav_container {
+  grid-row: 1/2;
+  padding: 1rem 0;
+  grid-column: 1/3;
+  border-bottom: 1px solid gray;
+
+  display: flex;
+  justify-content: space-between;
+}
+.main-wrapper #popular-categories nav {
+  padding: var(--padding);
+
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+}
+.main-wrapper #popular-categories nav a {
+  margin: 0 1rem;
+  color: var(--color);
+  text-decoration: none;
+}
+
+.main-wrapper #popular-categories nav a.active {
+  font-weight: bolder;
+}

@@ -1,0 +1,51 @@
+#navbar {
+  z-index: 999;
+  width: 100%;
+  height: 4.5rem;
+  color: darkgray;
+  background: white;
+  box-shadow: var(--box-shadow) darkgray;
+
+
+  position: fixed;
+  top: 0;
+
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+.search-options-wrapper,
+.profile-optiones-n-menu-wrapper {
+  display: flex;
+  flex-flow: row nowrap;
+  margin: calc(var(--padding) + .4rem) 0;
+}
+
+
+#dropdown-category {
+  margin: calc(var(--padding) - .1rem) 0;
+  padding: 0 calc(var(--padding) + .4rem);
+  border-right: 1px solid darkgray;
+}
+.name {
+  margin: calc(var(--padding) + .4rem);
+}
+.name strong {
+  color: darkslategray;
+}
+
+.search-input,
+.sidebar-menu,
+.name {
+  padding: var(--padding);
+  box-sizing: border-box;
+}
+
+.user-profile {
+  padding: var(--padding);
+}
+
+.circle {
+  border-radius: 50%;
+}

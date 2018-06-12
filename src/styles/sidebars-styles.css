@@ -1,0 +1,21 @@
+#authors-week div {
+  width:80%;
+  margin: 0;
+  padding: .4rem;
+
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+#authors-week span {
+  display: block;
+  margin-left: 1rem;
+}
+
+#authors-week img  {
+  width: 35px;
+  height: 35px;
+  background: slateblue;
+  border-radius: var(--circle);
+  box-shadow: var(--box-shadow) darkgray;
+}
