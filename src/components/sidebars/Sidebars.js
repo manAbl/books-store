@@ -17,6 +17,56 @@ const Sidebars = () => (
     </div>
     <div id="books-year">
       <h3> Books of the year </h3>
+      <React.Fragment>
+        <div>
+          <img alt="" />
+          <div>
+            Big Magic: Creative Living Beyond Fear
+            <br/>
+            <span className="author-gray">by Elizabeth Gilbert</span>
+          </div>
+        </div>
+        <div>
+          <img alt="" />
+          <div>
+            Big Magic: Creative Living Beyond Fear
+            <br/>
+            <span className="author-gray">by Elizabeth Gilbert</span>
+          </div>
+        </div>
+        <div>
+          <img alt="" />
+          <div>
+            Big Magic: Creative Living Beyond Fear
+            <br/>
+            <span className="author-gray">by Elizabeth Gilbert</span>
+          </div>
+        </div>
+        <div>
+          <img alt="" />
+          <div>
+            Big Magic: Creative Living Beyond Fear
+            <br></br>
+            <span className="author-gray">by Elizabeth Gilbert</span>
+          </div>
+        </div>
+        <div>
+          <img alt="" />
+          <div>
+            Big Magic: Creative Living Beyond Fear
+            <br/>
+            <span className="author-gray">by Elizabeth Gilbert</span>
+          </div>
+        </div>
+        <div>
+          <img alt="" />
+          <div>
+            Big Magic: Creative Living Beyond Fear
+            <br/>
+            <span className="author-gray">by Elizabeth Gilbert</span>
+          </div>
+        </div>
+      </React.Fragment>
     </div>
   </React.Fragment>
 );

@@ -1,5 +1,5 @@
-#authors-week div {
-  width:80%;
+#authors-week div, #books-year div {
+  width: 75%;
   margin: 0;
   padding: .4rem;
 
@@ -9,13 +9,29 @@
 
 #authors-week span {
   display: block;
-  margin-left: 1rem;
+  margin: .7rem 0 0 1rem;
 }
 
 #authors-week img  {
-  width: 35px;
-  height: 35px;
+  width: 3rem;
+  height: 3rem;
   background: slateblue;
   border-radius: var(--circle);
   box-shadow: var(--box-shadow) darkgray;
+}
+
+#books-year img {
+  width: 4rem;
+  height: 5rem;
+  background: lightblue;
+  box-shadow: var(--box-shadow) #9eada8;
+}
+
+#books-year img + div {
+  flex-flow: row wrap;
+  margin-left: calc(var(--padding) + .4rem);
+}
+
+.author-gray {
+  color: darkgray;
 }
