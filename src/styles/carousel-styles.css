@@ -1,0 +1,43 @@
+#carousel {
+  width: 100%;
+  height: 30rem;
+  margin-top: 4rem;
+  background: slateblue;
+  padding: var(--padding);
+
+  display: inline-flex;
+  flex-flow: row nowrap;
+}
+
+#carousel .carousel-item {
+  flex: 1;
+  width: 100rem;
+  height: 20rem;
+  margin: 0 .1rem;
+  background: darkred;
+  position: relative;
+}
+
+.carousel-item_description {
+  position: absolute;
+  right: 0;
+  width: 50%;
+  height: auto;
+  padding: var(--padding);
+}
+
+.carousel-item_description h4 {
+  margin: 0;
+}
+
+.carousel-item_container img {
+  width: 45%;
+  height: 17rem;
+  background: chartreuse;
+
+  position: absolute;
+  left: 6%;
+  bottom: -10%;
+  box-shadow: -1px 2px 20px #2f4f4f78;
+}
+

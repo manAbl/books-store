@@ -9,7 +9,7 @@ const Sidebars = () => (
       <React.Fragment>
         <div><img alt="" /> <span> Sebastian Jeremy </span> </div>
         <div><img alt="" /> <span> Jonathan Doe </span></div>
-        <div><img alt="" /> <span> Angedivne Summer </span></div>
+        <div><img alt="" /> <span> Angeline Summer </span></div>
         <div><img alt="" /> <span> Noah Jhones </span></div>
         <div><img alt="" /> <span> Tommy Adam </span></div>
         <div><img alt="" /> <span> Ian  Cassandra </span></div>

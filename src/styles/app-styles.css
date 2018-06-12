@@ -10,13 +10,13 @@
 
 .main-wrapper {
   width: 100%;
-  height: 60rem;
-  margin: 10rem 0 0 0;
+  height: 100%;
+  margin: var(--padding) 0 0 0;
   padding: 3rem;
 
   display: grid;
   grid-template-columns: 1fr 3fr;
-  grid-template-rows: 55% auto;
+  grid-template-rows: 25% auto;
 }
 
 .main-wrapper #authors-week {
