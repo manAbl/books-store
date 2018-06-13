@@ -10,25 +10,46 @@ const Carousel = () => (
       </div>
     </div>
     <div className="carousel-item">
-
+      <div className="carousel-item_description">
+        <h4> Attack of the planet <br/> by Andrea Jordan </h4>
+        <img alt="" />
+      </div>
     </div>
     <div className="carousel-item">
-
+      <div className="carousel-item_description">
+        <h4> Attack of the planet <br/> by Andrea Jordan </h4>
+        <img alt="" />
+      </div>
     </div>
     <div className="carousel-item">
-
+      <div className="carousel-item_description">
+        <h4> Attack of the planet <br/> by Andrea Jordan </h4>
+        <img alt="" />
+      </div>
     </div>
     <div className="carousel-item">
-
+      <div className="carousel-item_description">
+        <h4> Attack of the planet <br/> by Andrea Jordan </h4>
+        <img alt="" />
+      </div>
     </div>
     <div className="carousel-item">
-
+      <div className="carousel-item_description">
+        <h4> Attack of the planet <br/> by Andrea Jordan </h4>
+        <img alt="" />
+      </div>
     </div>
     <div className="carousel-item">
-
+      <div className="carousel-item_description">
+        <h4> Attack of the planet <br/> by Andrea Jordan </h4>
+        <img alt="" />
+      </div>
     </div>
     <div className="carousel-item">
-
+      <div className="carousel-item_description">
+        <h4> Attack of the planet <br/> by Andrea Jordan </h4>
+        <img alt="" />
+      </div>
     </div>
   </div>
 );
