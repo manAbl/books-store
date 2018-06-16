@@ -22,48 +22,56 @@ const Sidebars = () => (
           <img alt="" />
           <div>
             Big Magic: Creative Living Beyond Fear
-            <br/>
-            <span className="author-gray">by Elizabeth Gilbert</span>
+            <br/> <span className="author-gray">by Elizabeth Gilbert</span>
           </div>
         </div>
         <div>
           <img alt="" />
           <div>
             Big Magic: Creative Living Beyond Fear
-            <br/>
-            <span className="author-gray">by Elizabeth Gilbert</span>
+            <br/> <span className="author-gray">by Elizabeth Gilbert</span>
           </div>
         </div>
         <div>
           <img alt="" />
           <div>
             Big Magic: Creative Living Beyond Fear
-            <br/>
-            <span className="author-gray">by Elizabeth Gilbert</span>
+            <br/> <span className="author-gray">by Elizabeth Gilbert</span>
           </div>
         </div>
         <div>
           <img alt="" />
           <div>
             Big Magic: Creative Living Beyond Fear
-            <br></br>
-            <span className="author-gray">by Elizabeth Gilbert</span>
+            <br/> <span className="author-gray">by Elizabeth Gilbert</span>
           </div>
         </div>
         <div>
           <img alt="" />
           <div>
             Big Magic: Creative Living Beyond Fear
-            <br/>
-            <span className="author-gray">by Elizabeth Gilbert</span>
+            <br/> <span className="author-gray">by Elizabeth Gilbert</span>
           </div>
         </div>
         <div>
           <img alt="" />
           <div>
             Big Magic: Creative Living Beyond Fear
-            <br/>
-            <span className="author-gray">by Elizabeth Gilbert</span>
+            <br/> <span className="author-gray">by Elizabeth Gilbert</span>
+          </div>
+        </div>
+        <div>
+          <img alt="" />
+          <div>
+            Big Magic: Creative Living Beyond Fear
+            <br/> <span className="author-gray">by Elizabeth Gilbert</span>
+          </div>
+        </div>
+        <div>
+          <img alt="" />
+          <div>
+            Big Magic: Creative Living Beyond Fear
+            <br/> <span className="author-gray">by Elizabeth Gilbert</span>
           </div>
         </div>
       </React.Fragment>
